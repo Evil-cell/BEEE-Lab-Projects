@@ -1,0 +1,47 @@
+This is a brief information for makeing series and parallel connection on breadboard.
+
+
+Aim- To make series nad parallel connection and hands on session on breadboard.
+
+Material Required- Breadboard, two LED, connecting wires, Resistance, A 9V Battery.
+
+Procedure
+
+SERIES CONNECTION
+
+1. Take a breadboard, Two LED, a resistance,A some connecting wire.
+2. Now two LED and try to connect them in such a manner that current flowing through both LED will be same.
+3. For that insert LED in j  14 as these marking will be printed on your board. Make sure you insert positive terminla of LED to positive na negative 
+   terminla to negative.
+4. Now insert one leg of resistance in 'e' 14 and other leg in 'f' 14. 
+5. Insert the wire link directly below the resistance and in the bottom rail of the breadboadr.
+6. Now connect the positive wire of the battery clip to the upper rail of the breadboard and negative wire to the bottom rail of the breadboard.g
+7. Plug the battery to the clip and your LED will glow. Your series connection is ready.
+
+
+PARALLEL CONNECTION
+
+1. Take a breadboard, Two LED, Two resistance, A 9V battery, connecting wires.
+2. Insert one leg of first LED into 'e' 13  and other into 'e' 14 and for second LED insert one leg in 'i' 12 and into 'i' 13.
+3. Insert one leg of resistance 'j' 13 and other leg to the upper positive rail of the breadboard.
+4. As we have  connected both the LED into the different rail of the board so to make connection connect one wire to both the positive terminla
+   and one wire to the negative terminal of the LED.
+5. Now finally connect the positive wire of battery clip to the positive terminla of the LED and negative wire to negative terminla of the LED.
+6. Connect the battery clip to the battery and your LED will glow. Your parallel connection is ready.
+
+
+
+ POINTS TO REMMEMBER
+
+1. You must remember that you must connect the every rail of the readboard you are using with the help of wires because each rail is connected 
+   in diffrent patterns.
+
+2. Try to use jumping wire beacuse they are quite stable in the breadboard and they do not pop out when we handel breadboard.
+
+3. Make the connections creafully considering the positive and negative of LED and the board.
+
+4. Always use a resistance along with LED as it can not sustain the amount of current that is supplied by the battery.
+
+5. Handel all the componets carefully.
+
+6. Place the components at the appropriate distance so that you can easliy make connections and overcrowded board is difficult ot understand. 

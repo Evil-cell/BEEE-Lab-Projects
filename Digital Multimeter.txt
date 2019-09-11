@@ -1,0 +1,96 @@
+This is brief information about the digital multimeter and how to measure resistnace,voltage and current.
+
+Aim- This is the experiment to use degital multimeter and to measure resistance, current voltage, multiple reading etc.
+
+Materila Required- A digital Multimeter, Resistance and Power Supply.
+
+
+PROCEDURE 
+
+                                                                        MEASURING VOLTAGE
+
+1. First of all take a 9V battery, a multimeter, here i am talking about manual multimeter not about auto Multimeter.
+
+2. Put the black cable in the common port of the multimeter as it is comman for all measurment.
+
+3. Now as we are measuring voltage so put the red cable in the V(ohm) port as it is for voltage and resistance measurment.
+
+4. Select the DC voltage in the multimeter because the battery we are will provide DC voltage.
+
+5. Now connect the red cable to the positive terminla of the battery and black cable to the negative terminal of the battery.
+
+6. Now rotate the dial of the multimeter to the votage marking and select the highest voltage i.e 600.
+
+7. As your battery is of 9V so no reading will be displayed so decrese the voltage to 200 and repeat the process until you get 
+   the most accurate reading.
+
+                                                                       MEASURING RESISTANCE
+
+1. Take a resistance of any value and by the colour code you can calculate the the nominla value of the resistance.
+
+2. Now connect the black cabe to the common port and red cable to the V(ohm) as we are measuring resistance.
+
+3. Now move the dial to the resistance section in the multimeter.
+
+4. Suppose your nominal value of the resistance is 1 kilo ohm so you should keep your knob on 2K and measure the reading or
+   you can select the highest value and slowely decrease it until you get most accurate value of the resistance but the above 
+   methord is more convensitional.
+
+5. Now connect the two probs of the multimetre with the two legs of the resistance. The value will be displayed on the screen in kilo ohm.
+
+
+                                                                        DIODE TESTING
+
+
+1. Take a diode which you want to test.
+
+2. Now connect the black cabe to the common port and red cable to the V(ohm) port.
+
+3. Now move the dail to the diode symbol marked in the multimeter.
+
+4. Now on the diode their is  a band so on the right hand side of the band their is cathode i.e. negative and on the left hand side their is anode
+   i.e. positive.
+
+5. Now connect the positive terminla with the red probe and negative terminla to the black probe. 
+
+6. Your reading will be displayed on the screen.
+
+7.  If connect the red to cathode and black to anode you will get overlimit as current can flow only in one direction in diode.
+
+
+                                                                       MEASURING CURRENT
+
+1. To measure current take a 9V battery whichc we were using earlier.
+
+2. You must keep this in minde that multimeter will only measure DC which also only 10A.
+ 
+3. Now rotate your knob to the 10A DC to measure current.
+
+4. Now you have to connect the black probe in the common and the red probe in the Amper as we are measuring current.
+
+5. Now connect your battery to an LED as you have to give load to measure the current.
+
+6. Now connect the positive teriminal to the red probe and negative terminal to the black probe your value of the current will be displayed.
+
+
+                                                                     POINTS TO NOTE
+
+1. While measuring voltage you must set the konbe to highest voltage because if you set your multimeter to the lower voltage and large voltage 
+   is supplied by the source your multimeter will get damage.
+
+2. To prevent the fuse from blowing your must measure the current using 10A setting.
+
+3. When you are measuring voltage and resistance you must connect the red probe to the V(ohm).
+
+4. when you are measuring current you must connect the red probe to the amper setting.
+
+5. Carefully connect the the probe in order to get most accurate reading.
+
+6. You can only measure direct current from the multimeter.
+
+7. Reading 1 on the right hand side of the screen means overlode so no reading will be displayed.
+
+8. To test the diode you shoud connect the the positive to positive and negative to negative otherwise it will show overload.
+
+
+
