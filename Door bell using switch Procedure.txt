@@ -1,0 +1,43 @@
+Aim : To design a door bell using push button
+
+
+Material Required : Ardunio uno board, breadboard,jumper wires,busser,a switch,resistance,Power supply.
+
+
+Procedure
+
+1 Take an ardiuno uno,a breadboard,a switch,buzzer and some jumper wires for makeing connections.
+
+2 Connect buzzer,switch and resistance to the breadboard and also connect them to the ardiuno through jumoer wires.
+
+3 connect the negative terminal of the switch to the ground of digital pin another pin to the 5V power supply.
+
+4 Now connect the positive terminal of the buzzer to the digital pin which you have defined in the program and negative terminal to the ground in the power
+  supply section.
+
+5 Also connect a sutiable resistance with switch to protect it from getting damaged.
+
+6 Now write a program for the door bell using switch in the ardiuno and uplode it to the board .
+
+
+                                                                           POINTS TO REMEMBER
+
+1 Before uploding the program to the board always select the correct port and the board which you are using.
+
+2 Always remember the connection pattern of the breadboard while making connections. Top and bottom rows of the breadboard are connected horizontally 
+  and middel rails are connected vertically that to only upto five rows.
+
+3 Always connect your instrunment to the pin which you have defined in the program otherwise your setup will not work.
+
+4 Connect a sutiable  resistance with switch to protect it from getting damaged.
+
+5 All the codes of the Ardiuno is written in c and it is case sensitive so make sure you are using correct syntax.
+
+
+                                                                            LEARNING OUTCOMES
+
+1 Better understanding of the Ardunio and C programing.
+
+2 We aquire some knowdlege about equipments used with breadboard.
+
+3 Familiarity with new Ardunio IED.
