@@ -1,0 +1,40 @@
+Aim : To design an automatic night light lamp.
+
+
+Material Required : Arduino, LDR, LED, Resistor (10K, 220), wires, Breadboard
+
+Procedure
+
+1 Take an ardiuno uno,a breadboard,LER sensor resistance and some jumper wire.
+
+2 Connect LDR,LED and resistance to the breadboard and also connect them to the ardiuno through jumoer wires.
+
+3 connect posituve terminla of the LED to the digital pin specified in the program and make a comman ground for all the negative terminal.
+
+4 Now connect the LER sensor to the A0 pin in the analog section.
+
+5 Also connet the sutiable resistance to protect the circuit from getting damaged.
+
+6 Now write a program for the Automatic night lamp in the ardiuno and uplode it to the board.
+
+                                                                           POINTS TO REMEMBER
+
+1 Before uploding the program to the board always select the correct port and the board which you are using.
+
+2 Always remember the connection pattern of the breadboard while making connections. Top and bottom rows of the breadboard are connected horizontally 
+  and middel rails are connected vertically that to only upto five rows.
+
+3 Always connect your instrunment to the pin which you have defined in the program otherwise your setup will not work.
+
+4 Connect a sutiable  resistance with switch to protect it from getting damaged.
+
+5 All the codes of the Ardiuno is written in c and it is case sensitive so make sure you are using correct syntax.
+
+                            
+                                                                            LEARNING OUTCOMES
+
+1 Better understanding of the Ardunio and C programing.
+
+2 We aquire some knowdlege about LDR sensors.
+
+3 Familiarity with new Ardunio IED.
