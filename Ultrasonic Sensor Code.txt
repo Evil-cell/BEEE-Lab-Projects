@@ -1,0 +1,47 @@
+PROGRAM 
+
+int Trig = 9;
+int Echo = 5;
+int LED = 3;
+float d,Di;
+int i;
+void setup() {
+  
+  pinMode(Trig,OUTPUT);
+  pinMode(Echo,INPUT);
+  Serial.begin(9600);
+}
+
+void loop() {
+  digitalWrite(Trig,LOW);
+  delayMicroseconds(2);
+  digitalWrite(Trig,HIGH);
+  delayMicroseconds(10);
+  digitalWrite(Trig,LOW);
+  d = pulseIn(Echo,HIGH);
+  if(d!=0)
+  {
+    Di = (d*.034)/2;
+    /* if((Di>=2.0)&&(Di<=22))
+    {
+      digitalWrite(LED,HIGH);
+      delay(10);
+      digitalWrite(LED,LOW);
+      delay(10);
+    }
+    if((Di>22)&&(Di<=42))
+    {
+      digitalWrite(LED,HIGH);
+      delay(20);
+      digitalWrite(LED,LOW);
+      delay(20);
+    } */
+    for(i=2;i<=500;i=i++)
+    {
+    analogWrite(LED,i);
+    delay(100);
+    }
+    Serial.println(Di);
+    delay(100);
+  }
+}

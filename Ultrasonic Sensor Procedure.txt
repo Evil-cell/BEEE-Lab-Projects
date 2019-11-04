@@ -1,0 +1,42 @@
+Aim : To design an ultrasonic sensor obstical dectetor.
+
+
+Material Required : Arduino,breaboard,jumper wires, ultrasonic sensor,LED.
+Procedure
+
+1 Take an ardiuno uno,a breadboard,ultasonic sensor, resistance and some jumper wire.
+
+2 Connect Ultrasonic Sensor,LED and resistance to the breadboard and also connect them to the ardiuno through jumoer wires.
+
+3 Now as we look to the ultra sensor we can see the Trig pin which is use to triger the signal and echo pin which is use to recive the signal.
+ 
+4 Now connect the trig pin and the echo pin to any pin you have defined in the program.
+
+5 Make the ground for the circiut and connect to the ground and connect VCC to 5V power supply.
+
+5 Also connet the sutiable resistance to protect the circuit from getting damaged.
+
+6 Now write a program for the Automatic night lamp in the ardiuno and uplode it to the board.
+
+                                                                           POINTS TO REMEMBER
+
+1 Before uploding the program to the board always select the correct port and the board which you are using.
+
+2 Always remember the connection pattern of the breadboard while making connections. Top and bottom rows of the breadboard are connected horizontally 
+  and middel rails are connected vertically that to only upto five rows.
+
+3 The Ultrasonic sensor can only read from 2cm to 4m. Below and above which it cannot read anything.
+
+3 Always connect your instrunment to the pin which you have defined in the program otherwise your setup will not work.
+
+4 Connect a sutiable  resistance with switch to protect it from getting damaged.
+
+5 All the codes of the Ardiuno is written in c and it is case sensitive so make sure you are using correct syntax.
+
+                                                                           LEARNING OUTCOMES
+
+1 Better understanding of the Ardunio and C programing.
+
+2 We aquire some knowdlege about Ultrasonic sensor.
+
+3 Familiarity with new Ardunio IED.
